@@ -1,0 +1,30 @@
+{
+  "id": "1483003",
+  "name": "easylife",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "129106",
+      "name": "pen",
+      "font_class": "pen",
+      "unicode": "e824",
+      "unicode_decimal": 59428
+    },
+    {
+      "icon_id": "1166722",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "6403458",
+      "name": "spin",
+      "font_class": "spin",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    }
+  ]
+}

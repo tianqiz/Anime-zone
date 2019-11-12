@@ -1,0 +1,66 @@
+
+{
+    "success": true,
+    "data":{
+        "topicList" : [{
+            "id": "1",
+            "title": "LOL S9"
+        },{
+           "id": "2",
+            "title": "My little Heroes Season 4"
+        },{
+            "id": "3",
+             "title": "Comikit 2019"
+         },{
+            "id": "4",
+             "title": "Dr.Stone"
+         },{
+            "id": "5",
+             "title": "Shadowverse"
+         }],
+    
+        "articleList": [
+            {
+                "id":1,
+                "title":"Overwatch 2 Announced At BlizzCon 2019, New Look, Modes, Characters Detailed",
+                "description":"The Overwatch segment of BlizzCon began with a reminder of what has happened so far, with Winston recalling Overwatch...",
+                "image":"https://gamespot1.cbsistatic.com/uploads/screen_small/43/434805/3599006-trailer_overwatch_2019111.jpg"
+            },
+            {
+                "id":2,
+                "title":"One Piece: 10 Awesome Red-Haired Shanks Quotes",
+                "description":"One Piece is a Shonen series chock full of memorable characters and the lasting words that go with them. Gold Rogers last speech still echoes to this day. Whitebeard's dying words created a new pirate era...",
+                "image":"https://venue-blog-prod.s3.amazonaws.com/blog/wp-content/uploads/2019/10/DC3ZwsoXcAA_OF8-1024x564.jpg"
+            }
+        ],
+        "recommendList": [
+            {
+                "id": 1,
+                "imgURL":"//"
+            }
+        ],
+        "relatedArticles": [
+            {
+                "id": 1,
+                "content": "Is Tenki no Ko \"The Next Kimi no Na wa.\"?"
+            },
+            {
+                "id": 2,
+                "content": "Many Video Game Adaptations of Fall 2019"
+            },
+            {
+                "id": 3,
+                "content": "The Underwatched Shows of This Summer"
+            },
+            {
+                "id": 4,
+                "content": "Fall 2019 Anime Premiere Impressions"
+            },
+            {
+                "id": 5,
+                "content": "Steam Sale: Top 10 Anime Visual Novel Deals"
+            }
+        ]
+    }
+    
+}

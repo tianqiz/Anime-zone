@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "data":
+        [
+            {
+                "id":3,
+                "title":"It’s Time to Admit Yu-Gi-Oh! GX Is Better Than the Original Yu-Gi-Oh!",
+                "description":"It's one of the most prevalent discussions among card game anime enthusiasts: Yu-Gi-Oh! versus Yu-Gi-Oh! GX...",
+                "image":"https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/crop%3D0%2C25%2C608%2C304%3BeWH%3D800%2C400/sign=e1d03c615f4e9258b27bdcaea1b2fd6a/d53f8794a4c27d1e3ae8efc112d5ad6edcc438ed.jpg"
+            },
+            {
+                "id":4,
+                "title":"Overwatch 2 Announced At BlizzCon 2019, New Look, Modes, Characters Detailed",
+                "description":"The Overwatch segment of BlizzCon began with a reminder of what has happened so far, with Winston recalling Overwatch...",
+                "image":"https://gamespot1.cbsistatic.com/uploads/screen_small/43/434805/3599006-trailer_overwatch_2019111.jpg"
+            }
+        ]
+    
+    
+}
